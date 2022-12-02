@@ -2291,7 +2291,7 @@ body.modal{
 	.tokyo_tm_all_wrap .rightpart{padding-left: 350px;}
 	.tokyo_tm_all_wrap .leftpart{width: 350px;padding: 0px 70px;}
 	.tokyo_tm_home .avatar{min-width: 250px;min-height: 250px;}
-	.tokyo_tm_home .details .name{font-size: 48px;margin-bottom: 10px;}
+	.tokyo_tm_home .details .name{font-size: 45px;margin-bottom: 10px;}
 	.tokyo_tm_home .details .job{margin-bottom: 22px;}
 	.tokyo_tm_modalbox .box_inner{width: 850px;}
 }
