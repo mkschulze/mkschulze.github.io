@@ -41,6 +41,12 @@ body{
 body::-webkit-scrollbar{
   width: 0px;
 }
+
+@font-face {
+	  font-family: fontello-codes.css;
+	  src: url(/css/font/fontello.woff);
+	}
+
 svg{
 	fill: currentcolor;
 	width: 15px;
