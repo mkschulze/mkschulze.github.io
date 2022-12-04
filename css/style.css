@@ -2336,7 +2336,9 @@ body.modal{
 	.tokyo_tm_modalbox .portfolio_main_title h3{font-size: 20px;}
 	.tokyo_tm_modalbox .service_popup_informations .main_title h3{font-size: 20px;}
 }
+
 @media (max-width: 768px) {
+	.tokyo_tm_home .home_content{padding-top:100px;}
 	.tokyo_tm_home .details .name{font-size: 30px;}
 	.tokyo_tm_home .avatar{min-width: 200px;min-height: 200px;}
 	.tokyo_tm_portfolio .portfolio_list{margin: 0px;}
@@ -2374,4 +2376,3 @@ body.modal{
 	.tokyo_tm_modalbox .portfolio_main_title{margin-bottom: 20px;}
 }
 
-@media (max-width:768px){.tokyo_tm_home .home_content{padding-top:100px;}}
