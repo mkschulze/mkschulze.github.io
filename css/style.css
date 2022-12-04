@@ -2373,3 +2373,5 @@ body.modal{
 	.tokyo_tm_modalbox .description_wrap:before{height: 20px;}
 	.tokyo_tm_modalbox .portfolio_main_title{margin-bottom: 20px;}
 }
+
+@media (max-width:768px){.tokyo_tm_home .home_content{padding-top:100px;}}
