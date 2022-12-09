@@ -43,8 +43,8 @@ body::-webkit-scrollbar{
 }
 
 @font-face {
-	  font-family: fontello-codes.css;
-	  src: url(/css/font/fontello.woff);
+	font-family: fontello-codes.css;
+	src: url(/css/font/fontello.woff);
 	}
 
 svg{
